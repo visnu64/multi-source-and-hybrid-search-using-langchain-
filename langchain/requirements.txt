@@ -1,0 +1,14 @@
+langchain-openai
+langchain~=0.0.187
+langchain-core
+streamlit
+python-dotenv
+openai
+langchain-community
+fastapi
+uvicorn
+sse_starlette
+pypdf
+embeddings
+chromadb
+faiss-cpu
