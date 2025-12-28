@@ -1,4 +1,3 @@
-# multi-source-and-hybrid-search-using-langchain-
 # Multi-source & Hybrid Search using LangChain
 
 Welcome — this repository demonstrates building Retrieval-Augmented Generation (RAG) chatbots and hybrid search systems using LangChain. It contains Jupyter notebooks and Python code that combine multiple data sources and retrieval strategies (sparse + dense) to produce accurate, context-aware responses from large language models (LLMs).
